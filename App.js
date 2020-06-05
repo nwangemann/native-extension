@@ -37,7 +37,7 @@ export default function App() {
               height: 40,
               margin: 10,
               padding: 5,
-              backgroundColor: "aliceblue",
+              backgroundColor: "whitesmoke",
             }}
             placeholder="Search backgrounds"
             onChangeText={(text) => setUserInput(text)}
